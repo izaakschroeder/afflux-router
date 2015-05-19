@@ -1,0 +1,36 @@
+# afflux-router
+Izaak Schroeder <izaak.schroeder@gmail.com>
+:name: afflux
+:description: Lean, functional-reactive routing for afflux.
+:icons: font
+:source-highlighter: highlight.js
+:idprefix:
+:idseparator: -
+:toc:
+:toc-placement: preamble
+
+{description}
+
+
+image:http://img.shields.io/travis/izaakschroeder/{name}/master.svg?style=flat[foo]
+image:http://img.shields.io/coveralls/izaakschroeder/{name}/master.svg?style=flat[foo]
+image:http://img.shields.io/npm/l/{name}.svg?style=flat[foo]
+image:http://img.shields.io/npm/v/{name}.svg?style=flat[bar]
+image:http://img.shields.io/npm/dm/{name}.svg?style=flat[baz]
+
+## Usage
+
+### Transition hooks
+
+### Lazy route loading
+
+### Express-compatible routing patterns
+
+### Server side rendering
+
+
+
+[afflux]: https://github.com/izaakschroeder/afflux
+[react-router]: https://github.com/rackt/react-router
+[fluxible-router]: https://github.com/yahoo/fluxible-router
+[react-router-component]: https://github.com/STRML/react-router-component
